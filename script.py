@@ -30,13 +30,13 @@ class  Script(object):
 <b>► __add a bot__
 ► __add atleast one to channel__ `(your bot must be admin in there)`
 ► __You can add chats or bots by using /settings__
-► __if the **From Channel** is private your userbot must be member in there or your bot must need admin permission in there also__
+► __Currently Userbot Feature Not Working__
 ► __Then use /forward to forward messages__ </b>"""
   
   ABOUT_TXT = """<b>
 ╔════❰ ғᴏʀᴡᴀʀᴅ ʙᴏᴛ ❱═❍⊱❁۪۪
 ║╭━━━━━━━━━━━━━━━➣
-║┣⪼📃ʙᴏᴛ : [Fᴏʀᴡᴀᴅ Bᴏᴛ](https://t.me/AUTOFORWORDFILES_bot)
+║┣⪼📃ʙᴏᴛ : [Fᴏʀᴡᴀᴅ Bᴏᴛ](https://t.me/AUTOFORWARDFILES_bot)
 ║┣⪼👦Cʀᴇᴀᴛᴏʀ : [Aᴍᴀɴɪ Jɪɪ](https://t.me/Mslanderstalk_bot)
 ║┣⪼🤖Uᴘᴅᴀᴛᴇ : [Msʟᴀɴᴅᴇʀs](https://t.me/mslanders)
 ║┣⪼📡Hᴏsᴛᴇᴅ ᴏɴ : Sᴜᴘᴇʀ Fᴀsᴛ
