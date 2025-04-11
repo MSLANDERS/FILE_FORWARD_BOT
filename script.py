@@ -30,7 +30,7 @@ class  Script(object):
 <b>► __add a bot__
 ► __add atleast one to channel__ `(your bot must be admin in there)`
 ► __You can add chats or bots by using /settings__
-► __Currently Userbot Feature Not Working__
+► __if the **From Channel** is private your userbot must be member in there or your bot must need admin permission in there also__
 ► __Then use /forward to forward messages__ </b>"""
   
   ABOUT_TXT = """<b>
